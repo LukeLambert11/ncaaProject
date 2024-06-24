@@ -11,3 +11,5 @@ pandas.set_option('display.max_rows', None)
 
 
 print(df)
+
+df.dropna(subset=['Name'], inplace=True)
