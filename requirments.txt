@@ -3,3 +3,4 @@ notebook
 openpyxl
 matplotlib
 scikit-learn
+seaborn
