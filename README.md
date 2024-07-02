@@ -1,30 +1,35 @@
-NCAA Cross Country Data Analysis
-Project Overview
+# NCAA Cross Country Data Analysis
+
+## Project Overview
 This Python project analyzes NCAA Cross Country data from 2017 to 2022. The data was scraped from TFFRS.com and includes detailed results from various competitions.
 
-Installation
-Clone the repository:
+## Installation
 
-bash
-Copy code
-git clone https://github.com/yourusername/ncaa-cross-country-analysis.git
-Create a virtual environment and activate it:
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/ncaa-cross-country-analysis.git
+    ```
 
-bash
-Copy code
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-Install the required dependencies:
+2. Create a virtual environment and activate it:
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    ```
 
-bash
-Copy code
-pip install -r requirements.txt
-Usage
-Run the main analysis script:
+3. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
 
+## Usage
 
-Data
+1. Run the main analysis script:
+    ```bash
+    python analyze_data.py
+    ```
+
+## Data
 The dataset includes results from NCAA Cross Country competitions from 2017 to 2022, including individual athlete placements at nationals, conference, and regional levels.
 
-Acknowledgments
-All data was scraped from TFFRS.com.
+## Acknowledgments
+All data was scraped from [TFFRS.com](https://www.tfrrs.com).
