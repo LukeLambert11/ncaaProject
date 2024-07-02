@@ -1,7 +1,7 @@
 # NCAA Cross Country Data Analysis
 
 ## Project Overview
-This Python project analyzes NCAA Cross Country data from 2017 to 2022. The data was scraped from TFFRS.com and includes detailed results from various competitions.
+This Python project analyzes NCAA Cross Country data from 2018 to 2022. The data was scraped from TFFRS.com and includes detailed results from various competitions.
 
 ## Installation
 
@@ -29,7 +29,7 @@ This Python project analyzes NCAA Cross Country data from 2017 to 2022. The data
     ```
 
 ## Data
-The dataset includes results from NCAA Cross Country competitions from 2017 to 2022, including individual athlete placements at nationals, conference, and regional levels.
+The dataset includes results from NCAA Cross Country competitions from 2018 to 2022, including individual athlete placements at nationals, conference, and regional levels.
 
 ## Acknowledgments
 All data was scraped from [TFFRS.com](https://www.tfrrs.com).
