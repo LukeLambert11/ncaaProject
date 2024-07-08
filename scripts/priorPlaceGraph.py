@@ -18,7 +18,7 @@ def graph(df: pd.DataFrame, year: int) -> None:
 
     plt.xlabel(f'NCAA Place ({year})')
     plt.ylabel(f'Ncaa Prior Place ({year-1})')
-    plt.title(f'Comparison of NCAA Place and Ncaa Prior Place ({year})')
+    plt.title(f'Comparison of NCAA Place and Ncaa Prior Place {year}')
     plt.title('Comparison of NCAA Place and Ncaa Prior Place')
     plt.grid(True)
 
