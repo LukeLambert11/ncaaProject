@@ -1,7 +1,4 @@
 1. Number of DNFs each year along with temp of day (high, low)
-2. Average Imporved Place Each year and overall (bar graph wtih each year and a bar for all the years) 
-    mean and median
-    quartiles (first half, second half, middle of race)
 2. number of runners from each region 
 3. Number of athletes running at conference and ncaa ... maybe a bigger trend of resting athletes
     maybe do region as well if data is any good 
